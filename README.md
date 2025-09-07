@@ -38,7 +38,7 @@ The bot communicates with users through **Telegram** (primary interface) and has
 - Creates embeddings with OpenAI  
 - Stores vectors in Pinecone  
 
-<p align="center"><img src="images/Preprocess regular files.png" alt="PDF Workflow" width="600"/></p>
+<p align="center"><img src="images/Preprocess regular files .png" alt="PDF Workflow" width="600"/></p>
 
 ---
 
