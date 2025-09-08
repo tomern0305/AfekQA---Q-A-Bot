@@ -1,6 +1,6 @@
 # 📚 Afeka College RAG Bot
 
-This project is a **Retrieval-Augmented Generation (RAG) chatbot** built with [n8n](https://n8n.io/) and **OpenAI Chat Models**.  
+This project, which **🏆 won 1st place at Afeka College’s Hackathon (2025)**, is a **Retrieval-Augmented Generation (RAG) chatbot** built with [n8n](https://n8n.io/) and **OpenAI Chat Models**.  
 It is designed to **answer questions about Afeka College** by combining structured data (PDF files, WhatsApp messages) and unstructured knowledge scraped from the Afeka website.  
 The bot communicates with users through **Telegram** (primary interface) and has also been tested with **WhatsApp message datasets**.
 
@@ -17,6 +17,15 @@ The bot communicates with users through **Telegram** (primary interface) and has
 - **Preprocessing notebook**: Cleans and normalizes WhatsApp chat logs into a format suitable for ingestion.
 - **Contextual memory**: Maintains short-term conversational context with buffer memory.
 - **Visual workflows**: Included `.png` diagrams for each workflow.
+
+---
+
+## 🎯 Use Cases
+- Students get instant answers about academic regulations, courses, and procedures.
+- Academic staff saves time by focusing on more complex student needs.
+- College community benefits from faster and more accessible information.
+
+---
 
 - ## ⚙️ Workflows Overview
 
@@ -66,4 +75,8 @@ The bot communicates with users through **Telegram** (primary interface) and has
 - **Pinecone** – vector database for embeddings  
 - **Telegram API** – chatbot messaging interface  
 - **Google Drive API** – used for pulling documents in workflows  
-- **Python + Jupyter Notebook** – preprocessing pipeline for WhatsApp data  
+- **Python + Jupyter Notebook** – preprocessing pipeline for WhatsApp data
+
+---
+## 🏆 Achievement
+This project received **1st place out of 14 teams at Afeka College Hackathon (2025)**.
